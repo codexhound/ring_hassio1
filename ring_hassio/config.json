@@ -29,7 +29,7 @@
     "schema": {
         "ring_refresh_token":"str",
         "camera_name": "str",
-        "port":"port",
+        "port":"port"
     },
     "map": [
         "share:rw",
